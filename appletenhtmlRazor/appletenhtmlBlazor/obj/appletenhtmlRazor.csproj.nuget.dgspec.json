@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cdfn3\\source\\repos\\appletenhtmlRazor\\appletenhtmlBlazor\\appletenhtmlRazor.csproj": {}
+    "C:\\Users\\cdfn3\\OneDrive\\Documentos\\Blog\\appletenhtml-razor\\appletenhtmlRazor\\appletenhtmlBlazor\\appletenhtmlRazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cdfn3\\source\\repos\\appletenhtmlRazor\\appletenhtmlBlazor\\appletenhtmlRazor.csproj": {
+    "C:\\Users\\cdfn3\\OneDrive\\Documentos\\Blog\\appletenhtml-razor\\appletenhtmlRazor\\appletenhtmlBlazor\\appletenhtmlRazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cdfn3\\source\\repos\\appletenhtmlRazor\\appletenhtmlBlazor\\appletenhtmlRazor.csproj",
+        "projectUniqueName": "C:\\Users\\cdfn3\\OneDrive\\Documentos\\Blog\\appletenhtml-razor\\appletenhtmlRazor\\appletenhtmlBlazor\\appletenhtmlRazor.csproj",
         "projectName": "appletenhtmlRazor",
-        "projectPath": "C:\\Users\\cdfn3\\source\\repos\\appletenhtmlRazor\\appletenhtmlBlazor\\appletenhtmlRazor.csproj",
+        "projectPath": "C:\\Users\\cdfn3\\OneDrive\\Documentos\\Blog\\appletenhtml-razor\\appletenhtmlRazor\\appletenhtmlBlazor\\appletenhtmlRazor.csproj",
         "packagesPath": "C:\\Users\\cdfn3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cdfn3\\source\\repos\\appletenhtmlRazor\\appletenhtmlBlazor\\obj\\",
+        "outputPath": "C:\\Users\\cdfn3\\OneDrive\\Documentos\\Blog\\appletenhtml-razor\\appletenhtmlRazor\\appletenhtmlBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cdfn3\\AppData\\Roaming\\NuGet\\NuGet.Config",
