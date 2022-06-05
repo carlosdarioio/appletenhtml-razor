@@ -1,0 +1,55 @@
+﻿@page
+@model appletenhtmlRazor.Pages.EjSuma.IndexModel
+<form method="post" onv>
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">Ejemplo sumando dos numeros diferentes </h2>
+            <p>Sumaros los dos valores ingresados en el modelo</p>
+            <hr />
+        </div>
+        <!--//34. Custom Validation  (verificando que Name y DisplayOrder no sean iguales-->
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">
+            
+            <label asp-for="Suma.Numero1">Numero1</label>
+            <input asp-for="@Model.Suma.Numero1" class="form-control" />
+            <!--33. Server Side Validations-->
+            <span asp-validation-for="Suma.Numero1" class="text-danger"></span>
+
+        </div>
+
+        <div class="mb-3">
+            
+            <label asp-for="Suma.Numero2">Numeros2</label>
+            <input asp-for="Suma.Numero2" class="form-control" />
+            <span asp-validation-for="Suma.Numero2" class="text-danger"></span>
+            
+        </div>
+        <hr />
+        @if (TempData["Resultado"] != null)
+        {
+            <div class="mb-3">
+                <h1>@TempData["Resultado"]</h1>
+            </div>
+        }
+
+        <button type="submit" class="btn btn-primary" style="width:150px;">
+            Sumar
+        </button>
+
+        <a asp-page="Index" class="btn btn-secondary" style="width:150px;">
+            Limpiar
+        </a>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+     //36. Client Side Validations (script para ejecutar valicaciones desde el cliente)
+    <partial name="_ValidationScriptsPartial"/>
+    }
+}
+
+@{
+}
+
