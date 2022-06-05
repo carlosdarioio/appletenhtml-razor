@@ -1,0 +1,46 @@
+﻿@page
+@model appletenhtmlRazor.Pages.EjAnyoBisiesto.YearBisiest
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">Ejemplo calculando Año bisiestro</h2>
+            <p>Calcularos si el año introducido es o no es bisiesto</p>
+            <hr />
+        </div>        
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">            
+            <label asp-for="Year">Year</label>
+            <input asp-for="@Model.Year" class="form-control" />            
+            <span asp-validation-for="@Model.Year" class="text-danger"></span>
+        </div>
+
+        
+        <hr />
+        @if (TempData["result "] != null)
+        {
+            <div class="mb-3">
+                <h1>@TempData["result "]</h1>
+            </div>
+        }
+
+        <button type="submit" class="btn btn-primary" style="width:150px;">
+            Calcular
+        </button>
+
+        <a asp-page="Index" class="btn btn-secondary" style="width:150px;">
+            Limpiar
+        </a>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+     //36. Client Side Validations (script para ejecutar valicaciones desde el cliente)
+    <partial name="_ValidationScriptsPartial"/>
+    }
+}
+
+@{
+}
+
+
