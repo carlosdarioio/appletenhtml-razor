@@ -1,7 +1,15 @@
+using appletenhtmlRazor.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+//24 Programs.cs Datanase Settings
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
+        //connectionString: "DefaultConnection"
+        builder.Configuration.GetConnectionString("DefaultConnection")
+    ));
 
 var app = builder.Build();
 
