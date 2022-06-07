@@ -15,6 +15,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\cdfn3\OneDrive\Documentos\Blog\appletenhtml-razor\appletenhtmlRazor\appletenhtmlBlazor
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Articles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Articles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Articles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Articles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/EjAnyoBisiesto/YearBisiest.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWpBbnlvQmlzaWVzdG9cWWVhckJpc2llc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

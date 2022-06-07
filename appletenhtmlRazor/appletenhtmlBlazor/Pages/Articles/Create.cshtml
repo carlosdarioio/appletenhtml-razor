@@ -1,0 +1,45 @@
+﻿@page
+@model appletenhtmlRazor.Pages.Articles.CreateModel
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">Crear Articulo</h2>
+            <hr />
+        </div>
+        <!--//34. Custom Validation  (verificando que Name y DisplayOrder no sean iguales-->
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">            
+            <label asp-for="Article.Name"></label>
+            <input asp-for="@Model.Article.Name" class="form-control" />
+            <!--33. Server Side Validations-->
+            <span asp-validation-for="Article.Name" class="text-danger"></span>
+
+        </div>
+
+        <div class="mb-3">
+            
+            <label asp-for="Article.Price"></label>
+            <input asp-for="Article.Price" class="form-control" />
+            <span asp-validation-for="Article.Price" class="text-danger"></span>
+            
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:150px;">
+            Create
+        </button>
+
+        <a asp-page="Index" class="btn btn-secondary" style="width:150px;">
+            Atras
+        </a>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+     //36. Client Side Validations (script para ejecutar valicaciones desde el cliente)
+    <partial name="_ValidationScriptsPartial"/>
+    }
+}
+
+@{
+}
+
