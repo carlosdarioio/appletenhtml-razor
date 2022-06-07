@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = appletenhtmlRazor
+build_property.RootNamespace = appletenhtmlRazor
+build_property.ProjectDir = C:\Users\cdfn3\OneDrive\Documentos\Blog\appletenhtml-razor\appletenhtmlRazor\appletenhtmlBlazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\cdfn3\OneDrive\Documentos\Blog\appletenhtml-razor\appletenhtmlRazor\appletenhtmlBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Articles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Articles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Articles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Articles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/EjAnyoBisiesto/YearBisiest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWpBbnlvQmlzaWVzdG9cWWVhckJpc2llc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/EjParOImpar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWpQYXJPSW1wYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/EjPotence/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWpQb3RlbmNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/EjSuma/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWpTdW1hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cdfn3/OneDrive/Documentos/Blog/appletenhtml-razor/appletenhtmlRazor/appletenhtmlBlazor/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1lf4cgjngh
